@@ -1,8 +1,6 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
- *  Prints the sum of two random integers between 1 and 6
+ * Assignment from: https://introcs.cs.princeton.edu/java/12types/
+ * Prints the sum of two random integers between 1 and 6
  **************************************************************************** */
 
 public class SumOfTwoDice {
