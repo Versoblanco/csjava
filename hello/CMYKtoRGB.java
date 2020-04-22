@@ -1,7 +1,15 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ * Assignment specification from:
+ * https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php
+ * Write a program CMYKtoRGB.java that converts from CMYK format to RGB format
+ * using these mathematical formulas:
+ * white =1−black
+ * red   =255×white×(1−cyan)
+ * green =255×white×(1−magenta)
+ * blue  = 255×white×(1−yellow)
+ * Your program must take four double command-line arguments cyan, magenta,
+ * yellow, and black; compute the corresponding RGB values, each rounded to the
+ * nearest integer; and print the RGB values
  **************************************************************************** */
 
 public class CMYKtoRGB {

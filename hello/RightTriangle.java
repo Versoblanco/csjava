@@ -1,7 +1,8 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ * Assignment specification from:
+ * https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php
+ * Write a program RightTriangle that takes three int command-line arguments and
+ * determines whether they constitute the side lengths of some right triangle.
  **************************************************************************** */
 
 public class RightTriangle {

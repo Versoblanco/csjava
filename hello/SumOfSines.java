@@ -1,7 +1,6 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ *  Assignment specification from:
+ *  https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php
  *  Takes a double command-line argument t (in degrees) and prints the value of
  *  sin(2t) + sin(3t)
  **************************************************************************** */

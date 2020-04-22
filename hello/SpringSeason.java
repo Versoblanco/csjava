@@ -1,7 +1,5 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ *
  *  Takes two int values m and d from the command line and prints true if day d
  *  of month m is between March 20 (m = 3, d =20) and June 20 (m = 6, d = 20),
  *  false otherwise.

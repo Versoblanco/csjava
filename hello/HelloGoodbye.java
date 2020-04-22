@@ -1,7 +1,10 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ * Assignment specification from:
+ * https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php
+ * Write a program HelloGoodbye.java that takes two names as command-line
+ * arguments and prints hello and goodbye messages as shown below (with the
+ * names for the hello message in the same order as the command-line arguments
+ * and with the names for the goodbye message in reverse order).
  **************************************************************************** */
 
 public class HelloGoodbye {
